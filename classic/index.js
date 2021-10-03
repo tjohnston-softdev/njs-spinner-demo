@@ -1,4 +1,5 @@
 const ora = require("ora-classic");
+console.log("Running 'ora' demo - Classic");
 runDemo();
 
 
