@@ -1,4 +1,3 @@
 # Changelog
 
-**./classic/index.js**
-* Wrote header message.
+Wrote comments for both demos.
