@@ -2,7 +2,7 @@
 
 This is a demo project for the [ora](https://www.npmjs.com/package/ora) library, which is used to add loading spinners to command line interfaces and terminal applications. This is ideal for when you are performing time-consuming, asynchronous tasks and need to give the user visual feedback that the application is busy and has not frozen.
 
-The 'ora' library is a popular choice for loading spinners with approximately 8-9 million downloads per week. It is also updated regularly with the latest version (6.0.1) released on 14 September 2021.
+The 'ora' library is a popular choice for loading spinners with approximately 8-9 million downloads per week. It is also updated regularly with the latest version (6.1.2) released on 27 June 2022.
 
 The library has migrated over to [pure ESM](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c) syntax as of version 6.0.0 on 24 August 2021. I have published a [separate package](https://www.npmjs.com/package/ora-classic) mirroring the previous version. This demo has scripts for both the [classic](./classic/index.js) and the [ESM](./esm/index.js) syntax, so that you can decide which one you want to refer to.
 
