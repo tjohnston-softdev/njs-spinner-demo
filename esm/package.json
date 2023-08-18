@@ -10,6 +10,6 @@
   "author": "Tyrone Johnston",
   "license": "CC0-1.0",
   "dependencies": {
-    "ora": "^6.1.2"
+    "ora": "^7.0.1"
   }
 }
